@@ -148,6 +148,9 @@
 		},
 		{
 			"repo" : "yoma16/tos-addon"
+		},
+		{
+			"repo" : "pinnkoro/TOSAddon"
 		}
 	]
 }
